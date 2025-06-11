@@ -58,7 +58,7 @@
       {
         "id": "windows-xp-icons",
         "label": "Windows XP Icons",
-        "path": "./icons/windows-xp-icon-theme.json"
+        "path": "./icons/vs-seti-icon-theme.json"
       }
     ]
   }

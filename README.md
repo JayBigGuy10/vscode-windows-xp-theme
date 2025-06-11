@@ -35,3 +35,13 @@ You can override this (or any other) theme in your personal config file. Please 
 ## Credits
 
 This theme was inspired by the default Windows XP "Luna" theme. The code editor color scheme was derived from the default VS Code Light (Visual Studio) theme.
+
+https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/light_plus.json
+
+https://github.com/microsoft/vscode/blob/main/extensions/theme-seti/icons/vs-seti-icon-theme.json
+
+https://fontdrop.info/
+
+https://code.visualstudio.com/api/references/theme-color
+
+https://code.visualstudio.com/docs/configure/themes#_customizing-a-color-theme
